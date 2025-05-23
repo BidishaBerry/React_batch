@@ -1,2 +1,2 @@
-welcome to github
+hi welcome to github
 created a new repository
